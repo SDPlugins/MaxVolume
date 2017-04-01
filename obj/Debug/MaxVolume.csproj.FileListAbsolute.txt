@@ -1,0 +1,10 @@
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\MaxVolume.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\MaxVolume.pdb
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\Assembly-CSharp.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\Rocket.API.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\Rocket.Core.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\Rocket.Unturned.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Debug\UnityEngine.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\obj\Debug\MaxVolume.dll
+C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\obj\Debug\MaxVolume.pdb
