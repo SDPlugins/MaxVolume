@@ -8,3 +8,9 @@ C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Release\Rocket.Unturne
 C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\bin\Release\UnityEngine.dll
 C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\obj\Release\MaxVolume.dll
 C:\Users\HPUSER\Desktop\MaxVolume\MaxVolume\MaxVolume\obj\Release\MaxVolume.pdb
+C:\Users\irfan\Documents\GitHub\MaxVolume\bin\Release\MaxVolume.dll
+C:\Users\irfan\Documents\GitHub\MaxVolume\bin\Release\MaxVolume.pdb
+C:\Users\irfan\Documents\GitHub\MaxVolume\obj\Release\MaxVolume.csprojAssemblyReference.cache
+C:\Users\irfan\Documents\GitHub\MaxVolume\obj\Release\MaxVolume.csproj.CoreCompileInputs.cache
+C:\Users\irfan\Documents\GitHub\MaxVolume\obj\Release\MaxVolume.dll
+C:\Users\irfan\Documents\GitHub\MaxVolume\obj\Release\MaxVolume.pdb
